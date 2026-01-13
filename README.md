@@ -1,126 +1,71 @@
-<!-- ====================================================== -->
-<!-- 🌟 NEVIL CHAUDHARI | WORLD-CLASS GITHUB PROFILE 🌟 -->
-<!-- ====================================================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Nevil%20Chaudhari&fontSize=70&animation=fadeIn" />
+
+  <h3>🚀 Full-Stack Developer | Flutter Enthusiast | Creative Technologist</h3>
+
+  <p align="center">
+    <a href="https://instagram.com/nevil_106_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+    <a href="mailto:chaudharinevil106@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Building+modern+mobile+apps;Full-stack+Web+Solutions;Crafting+Digital+Experiences;Design+%2B+Code" alt="Typing SVG" />
+</div>
+
+---
+
+## 📖 About Me
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" valign="top">
+        <p>👋 <b>Hi! I'm Nevil</b>, a developer who bridges the gap between <b>Design</b> and <b>Engineering</b>.</p>
+        <ul>
+          <li>💻 Mastering <b>Full-Stack</b> architectures.</li>
+          <li>📱 Specialist in <b>Flutter & React</b> ecosystems.</li>
+          <li>🎨 Expert in <b>Adobe Suite</b> & Visual Storytelling.</li>
+        </ul>
+      </td>
+      <td width="50%" align="center">
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NevilChaudhari&layout=compact&theme=dark" alt="Top Langs" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🛠️ Technical Arsenal
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=220&section=header&text=Nevil%20Chaudhari&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+**Languages** ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 
-<h3>🚀 Full-Stack Developer | Flutter & Web Specialist | Creative Technologist</h3>
+**Web & Mobile** ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Building+beautiful+apps;Designing+scalable+systems;Turning+ideas+into+products;Always+learning%2C+always+shipping" />
+**Backend & Creative** ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/premiere_pro-9999FF.svg?style=flat-square&logo=adobepremierepro&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Ecosystem
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NevilChaudhari&show_icons=true&theme=dark" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NevilChaudhari&theme=dark" alt="GitHub Streak" height="170" />
+</div>
 
 <br/>
 
-<a href="mailto:chaudharinevil106@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://instagram.com/nevil_106_">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NevilChaudhari&theme=dark&no-bg=true" alt="Trophies" />
 </div>
 
 ---
 
-## 🧠 About Me
-
-```ts
-const Nevil = {
-  role: "Full-Stack Developer",
-  focus: ["Flutter", "Web Apps", "Scalable Backends"],
-  passion: ["Clean UI", "Performance", "Great UX"],
-  mindset: "Build. Learn. Improve. Repeat."
-}
-💻 Full-Stack Developer crafting high-performance apps
-
-
-📱 Flutter expert building cross-platform experiences
-
-
-🌐 Strong foundation in modern web & backend systems
-
-
-🎨 Creative technologist with design & video editing skills
-
-
-⚡ Obsessed with learning, shipping & improving
-
-
-
-🛠️ Tech Stack
-👨‍💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,js,ts" />
-</p>
-🌐 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-</p>
-📱 Mobile & Backend
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,nodejs,firebase,supabase,mysql" />
-</p>
-☁️ Tools & Deployment
-<p>
-<img src="https://skillicons.dev/icons?i=npm,netlify,git,github" />
-</p>
-🎨 Creative Tools
-<p>
-<img src="https://skillicons.dev/icons?i=photoshop,pr,ae" />
-</p>
-
-📊 GitHub Performance
 <div align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=NevilChaudhari&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=NevilChaudhari&theme=tokyonight&hide_border=true" />
-<br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NevilChaudhari&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=NevilChaudhari&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  <br/>
+  <i>"Code is not just code — it’s an experience."</i>
 </div>
-
-🏆 Achievements
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=NevilChaudhari&theme=tokyonight&no-frame=true&margin-w=15" />
-</div>
-
-👀 Profile Views
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=NevilChaudhari&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</div>
-
-🤝 Let’s Collaborate
-
-
-🚀 Open to freelance, internships & collaborations
-
-
-💡 Love working on impactful products
-
-
-📬 Reach out via email or Instagram
-
-
-
-<div align="center">
-💬 “Code is not just logic — it’s an experience.”
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0e75b6&height=120&section=footer"/>
-</div>
-<!-- ⭐ Crafted with passion by Nevil Chaudhari -->
-
----
-
-### 🔥 Why this is “Best in the World”
-✅ Clean visual hierarchy  
-✅ Animated typing & banner  
-✅ Recruiter-friendly  
-✅ Modern skill icons  
-✅ Strong personal branding  
-✅ High engagement & credibility  
-
-If you want, I can also:
-- 🔥 Add **featured projects section**
-- 🌍 Add **portfolio website integration**
-- 📈 Optimize it for **recruiters & ATS**
-- 🎯 Make a **minimalist or ultra-premium version**
-
-Just tell me 👑
