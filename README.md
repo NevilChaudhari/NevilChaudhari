@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Nevil%20Chaudhari&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Nevil%20Chaudhari&fontSize=70&animation=fadeIn" />
 
   <h3>🚀 Full-Stack Developer | Flutter Enthusiast | Creative Technologist</h3>
 
