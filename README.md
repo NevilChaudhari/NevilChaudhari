@@ -1,16 +1,28 @@
-## Hi there 👋
+<!-- ===================== -->
+<!-- 🌸 ANIME GITHUB README -->
+<!-- ===================== -->
 
-<!--
-**NevilChaudhari/NevilChaudhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="180"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🌙 Hi, I'm **YourName**
+### 「 Anime • Code • Creativity 」
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=ffb7c5"/>
+  <img src="https://img.shields.io/github/stars/yourusername?label=Stars&style=for-the-badge&color=ffb7c5"/>
+</p>
+
+</div>
+
+---
+
+## 🌸 About Me
+
+```txt
+✦ Name      : YourName
+✦ Role      : Full Stack / Backend / Frontend Dev
+✦ Focus     : Clean Code • Performance • Aesthetics
+✦ Loves     : Anime, Late-night coding, Coffee ☕
+✦ Motto     : "Code like it's your final arc."
