@@ -74,32 +74,32 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NevilChaudhari&theme=dark&hide_border=false&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NevilChaudhari&show_icons=true&theme=dark" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NevilChaudhari&theme=dark" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=NevilChaudhari&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NevilChaudhari&layout=compact&theme=dark"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NevilChaudhari&theme=dark&hide_border=false&layout=compact" />
-</p>
 
 ---
 
 ## 🏆 Achievements & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NevilChaudhari&theme=dark&no-frame=false&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NevilChaudhari&theme=dark&margin-w=15&margin-h=15"/>
 </p>
+
 
 ---
 
 ## 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=NevilChaudhari&icon=0&color=0" />
+  <img src="https://komarev.com/ghpvc/?username=NevilChaudhari&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
+
 
 ---
 
