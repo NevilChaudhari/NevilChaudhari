@@ -1,35 +1,110 @@
-<!-- ========================================= -->
-<!-- 🌸 ULTIMATE ANIME GITHUB README 🌸 -->
-<!-- ========================================= -->
+<!-- ========================= -->
+<!-- 🌟 NEVIL CHAUDHARI 🌟 -->
+<!-- ========================= -->
 
-<div align="center">
+<h1 align="center">Hey 👋, I'm Nevil Chaudhari</h1>
+<h3 align="center">Full-Stack Developer | Flutter & Web Enthusiast | Creative Technologist</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb7c5,100:8e44ad&height=220&section=header&text=YourName&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="220"/>
-
-### 「 Code is my weapon. Anime is my power. 」
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=ff69b4"/>
-  <img src="https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=ff69b4"/>
+<p align="center">
+  <a href="https://instagram.com/nevil_106_">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a>
+  <a href="mailto:chaudharinevil106@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
 </p>
-
-</div>
 
 ---
 
-## 🩷 Character Profile
+## 🚀 About Me
 
-```yaml
-Name: YourName
-Alias: "The Debugger"
-Class: Software Developer
-Specialty:
-  - Clean Architecture
-  - Performance Optimization
-  - UI Aesthetics
-Affiliation: Open Source
-Alignment: Chaotic Good
-Theme Song: Anime Openings at 2AM
+- 💻 Passionate **Full-Stack Developer** with a love for clean UI & scalable systems  
+- 📱 Building cross-platform apps using **Flutter & React**
+- 🌐 Experienced in **modern web technologies & cloud backends**
+- 🎨 Creative thinker with strong skills in **design & video editing**
+- ⚡ Always learning, always building
+
+---
+
+## 🧠 Tech Stack
+
+### 👨‍💻 Programming Languages
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
+
+### 🌐 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+### 📱 Mobile & Backend
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### ☁️ Tools & Deployment
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+
+---
+
+### 🎨 Creative & Design
+![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NevilChaudhari&theme=dark&hide_border=false&include_all_commits=true" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=NevilChaudhari&theme=dark&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NevilChaudhari&theme=dark&hide_border=false&layout=compact" />
+</p>
+
+---
+
+## 🏆 Achievements & Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NevilChaudhari&theme=dark&no-frame=false&no-bg=true&margin-w=15" />
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=NevilChaudhari&icon=0&color=0" />
+</p>
+
+---
+
+<p align="center">
+  💡 <i>"Code is not just code — it’s an experience."</i>
+</p>
+
+<!-- Proudly crafted by Nevil Chaudhari -->
